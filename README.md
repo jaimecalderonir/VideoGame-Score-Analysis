@@ -3,6 +3,7 @@ Analysis of the popularity of VideoGames and their user score. Predictive model 
 
 # Análisis del Mercado de Videojuegos y Predicción de Popularidad
 - Descripción
+  
 Este proyecto se centra en el análisis del mercado de videojuegos, con especial atención en las ventas en Norteamérica, Japón y globalmente. Además, se han analizado las valoraciones de usuarios en diversas plataformas como Metacritic, así como las menciones de videojuegos en redes sociales como Twitter y Reddit. Utilizando un modelo de lenguaje natural (LLM), se han clasificado los comentarios de los usuarios como positivos o negativos, y se ha calculado el porcentaje de opiniones favorables o desfavorables.
 
 La recolección de datos se ha realizado mediante web scraping en sitios como IMDb, VGChartz, y el uso de APIs como la de Twitter y Reddit. Python se ha utilizado para la extracción y limpieza de datos, mientras que SQL ha sido empleado para realizar consultas y gestionar las tablas específicas creadas. Para la visualización de datos, se ha utilizado Tableau. El objetivo de este proyecto es proporcionar un análisis detallado del mercado de videojuegos, enfocándose en la experiencia del usuario y las ventas, para crear modelos predictivos que estimen la popularidad y las puntuaciones futuras de videojuegos que están por salir.
